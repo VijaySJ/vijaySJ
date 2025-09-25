@@ -1,11 +1,11 @@
-<!-- Banner -->
+<!-- Animated Header -->
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=200&section=header&text=Vijay%20S%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
-### 🚀 Software Test Engineer | Automation Enthusiast | Quality Advocate  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🐞Vijay%20S%20🔍&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Automation+%7C+Manual+Testing;Playwright+%7C+Selenium;API+Testing+%7C+CI%2FCD;Delivering+Bug-Free+Software)](https://git.io/typing-svg)
+### 🚀 Software Test Engineer | Automation Enthusiast | Bug Hunter  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Automation+%26+Manual+Testing;Playwright+%7C+Selenium+%7C+TestNG;API+Testing+%7C+CI%2FCD+Pipelines;Delivering+Bug-Free+Software)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,9 +28,9 @@
 
 | **Automation** | **Manual** | **API Testing** | **CI/CD & Tools** |
 | :------------- | :---------- | :--------------- | :---------------- |
-| ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) | Test Case Design | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D33833?style=flat&logo=jenkins&logoColor=white) |
-| ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) | Defect Management | REST APIs | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
-| TestNG, Cucumber | | | Git / GitHub |
+| ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) | Test Case Design | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white) |
+| ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | Defect Management | ![REST](https://img.shields.io/badge/REST%20APIs-25A162?style=flat-square&logo=swagger&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=flat-square&logo=testng&logoColor=white) , ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white) | | | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) / ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
@@ -63,8 +63,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VijaySJ&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VijaySJ&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VijaySJ&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VijaySJ&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -91,11 +91,11 @@
 
 ---
 
-<!-- Footer -->
+<!-- Animated Footer -->
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn)
 
-*"Quality is never an accident; it is always the result of intelligent effort."* ✨  
+✨ *"Quality is never an accident; it is always the result of intelligent effort."* ✨  
 
 </div>
